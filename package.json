@@ -1,0 +1,15 @@
+{
+  "name": "djs-boilerplate",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord-api-types": "^0.37.90",
+    "discord.js": "^14.15.3"
+  }
+}
